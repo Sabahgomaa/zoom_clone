@@ -39,6 +39,8 @@ dependencies:
   #media
   flutter_gen:
   flutter_screenutil: ^5.6.0
+  jitsi_meet_wrapper: ^0.0.6
+  intl: ^0.17.0
   #firebase_core:
   firebase_core: ^2.8.0
   firebase_auth: ^4.3.0
