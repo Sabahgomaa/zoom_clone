@@ -1,5 +1,5 @@
 # zoom_clone
-Build a Complete Zoom Clone with Flutter, Firebase & Jitsi Meet
+Build a Complete Zoom Clone with Flutter, Firebase & Jitsi Meet Wrapper
 
 Features:
 1. Google Sign In
