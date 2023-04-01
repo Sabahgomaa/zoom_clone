@@ -26,4 +26,8 @@ Features:
 1.[firebase_core](https://pub.dev/packages/firebase_core)
 2.[firebase_auth](https://pub.dev/packages/firebase_auth)
 3.[cloud_firestore](https://pub.dev/packages/cloud_firestore)
-4.[jitsi_meet_wrapper](https://pub.dev/packages/jitsi_meet_wrapper)
+4.[google_sign_in](https://pub.dev/packages/google_sign_in)
+5.[jitsi_meet_wrapper](https://pub.dev/packages/jitsi_meet_wrapper)
+6.[flutter_gen ](https://pub.dev/packages/flutter_gen)
+7.[flutter_screenutil ](https://pub.dev/packages/flutter_screenutil)
+
